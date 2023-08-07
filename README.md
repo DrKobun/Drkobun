@@ -1,8 +1,9 @@
 ### Oi, eu sou Walyson Costa
-- 🌱 Estudante de Sistemas de Informação (3/8)
+<h3>- 🌱 Estudante de Sistemas de Informação (3/8)</h3>
 
 
-<h1>Principais Linguagens e Frameworks:</h1>
+
+<h2>Principais Linguagens e Frameworks:</h2>
 <div style="display: inline_block">
   <img align="center" alt="Waly-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Waly-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
