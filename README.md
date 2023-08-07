@@ -1,5 +1,5 @@
 ### Oi, eu sou Walyson Costa
-- 🌱 Estudante de Sistemas de Informação
+- 🌱 Estudante de Sistemas de Informação (3/8)
 
 
 <h1>Principais Linguagens e Frameworks:</h1>
