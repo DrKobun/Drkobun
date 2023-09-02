@@ -1,4 +1,4 @@
-### Oi, eu sou Walyson Costa
+### Oi, eu sou Walyson Costa 👋
 <h3>- 🌱 Estudante de Sistemas de Informação (3/8)</h3>
 
 
