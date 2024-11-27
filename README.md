@@ -14,4 +14,5 @@
   <img align="center" alt="Waly-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Waly-Dart" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Waly-Php" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Waly-Selenium" heigh="40" width="40" src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000">
 </div>
